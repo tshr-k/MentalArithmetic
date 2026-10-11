@@ -1,6 +1,6 @@
 # Mental Arithmetic Trainer
 
-## Project Overview
+<img src="demo.png" alt="A demo run of the program" width="500"> <br/>
 
 A configurable command-line trainer for practising mental arithmetic with decimals and fractions. It generates a session of randomised problems, asks for each answer in the terminal, and prints a scored summary at the end. Inspired by [Zetamac](https://arithmetic.zetamac.com/).
 
